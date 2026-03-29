@@ -37,3 +37,9 @@ Aplicação fullstack para acompanhamento de hábitos diários, com autenticaç�
 ```bash
 cd myday-backend
 .\gradlew bootRun --args="--server.port=8081 --server.error.include-message=always"
+
+👤 Integrantes
+Matheus Barbosa Mariotto	rm-560276
+João Vinícius	rm-559369
+
+
